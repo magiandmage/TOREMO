@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TOREMO</string>
+    <string name="toremo">トレーニングモード</string>
+    <string name="start">スタート</string>
+    <string name="ninzuulabel">人数</string>
+    <string name="goukeilabel">合計金額</string>
+</resources>
