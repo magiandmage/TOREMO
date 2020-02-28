@@ -21,5 +21,4 @@ public class MainActivity extends AppCompatActivity {
     };
 
 
-    //てすと～～1111111111111
-    //master
+    //てすと～～111111222222
